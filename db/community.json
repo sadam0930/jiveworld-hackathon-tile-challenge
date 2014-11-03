@@ -1,0 +1,10 @@
+{
+  "https://sandbox.jiveon.com": {
+    "jiveUrl": "https://sandbox.jiveon.com",
+    "version": "post-samurai",
+    "tenantId": "b22e3911-28ef-480c-ae3b-ca791ba86952",
+    "clientId": "lbphsjrxthprr8wt0q5jsr69anayubfj.i",
+    "clientSecret": "6w3ca8wwf6kw38vimdnpzy6jtvyarm7n.s",
+    "jiveCommunity": "sandbox.jiveon.com"
+  }
+}

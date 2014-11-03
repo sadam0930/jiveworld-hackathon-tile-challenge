@@ -1,0 +1,10 @@
+{
+    "default": {
+        "name": "defaultTemplate",
+        "displayName": "Contains: [sampletile-gauge] ",
+        "description": "Extension UUID 4305c6a9-19cd-427c-91f3-ee7aaf8ea2b7 Contains: [sampletile-gauge] ",
+        "tiles": [
+            "sampletile-gauge"
+        ]
+    }
+}

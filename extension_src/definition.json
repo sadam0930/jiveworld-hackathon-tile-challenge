@@ -1,0 +1,65 @@
+{
+    "integrationUser": {
+        "systemAdmin": false
+    },
+    "tiles": [
+        {
+            "sampleData": {
+                "message": "sampletile-gauge tile-gauge",
+                "sections": [
+                    {
+                        "color": "#ff0000",
+                        "label": "dummy"
+                    },
+                    {
+                        "color": "#ff8000",
+                        "label": "dummy"
+                    },
+                    {
+                        "color": "#dcdc00",
+                        "label": "dummy"
+                    },
+                    {
+                        "color": "#80bb00",
+                        "label": "dummy"
+                    },
+                    {
+                        "color": "#00bb00",
+                        "label": "dummy"
+                    }
+                ],
+                "activeIndex": 4,
+                "status": "Excellent"
+            },
+            "displayName": "sampletile-gauge",
+            "name": "sampletile-gauge",
+            "description": "sampletile-gauge",
+            "style": "GAUGE",
+            "icons": {
+                "16": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+                "48": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+                "128": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png"
+            },
+            "id": "9331cb10-44dd-4562-b0a4-7b4bc0c87148",
+            "definitionDirName": "sampletile-gauge",
+            "published": "2013-02-28T15:12:16.768-0800",
+            "updated": "2013-02-28T15:12:16.768-0800",
+            "config": "http://confident-mothership-49-157150.usw1.nitrousbox.com:3000/sampletile-gauge/configure",
+            "unregister": "http://confident-mothership-49-157150.usw1.nitrousbox.com:3000/unregister",
+            "register": "http://confident-mothership-49-157150.usw1.nitrousbox.com:3000/registration"
+        }
+    ],
+    "templates": [
+        {
+            "name": "defaultTemplate",
+            "displayName": "Contains: [sampletile-gauge] ",
+            "description": "Extension UUID 4305c6a9-19cd-427c-91f3-ee7aaf8ea2b7 Contains: [sampletile-gauge] ",
+            "tiles": [
+                "sampletile-gauge"
+            ]
+        }
+    ],
+    "osapps": [],
+    "storageDefinitions": [],
+    "jabCartridges": []
+}

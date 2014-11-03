@@ -1,0 +1,7 @@
+{
+    "clientUrl": "http://confident-mothership-49-157150.usw1.nitrousbox.com",
+    "port": "3000",
+    "development" : true,
+    "logLevel" : "DEBUG",
+    "extensionInfo" : {}
+}

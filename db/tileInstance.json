@@ -1,0 +1,17 @@
+{
+  "85d91375-6b0d-44a7-aaa6-83864cb15c62": {
+    "url": "https://sandbox.jiveon.com/api/jivelinks/v1/tiles/4059/data",
+    "config": {
+      "level": "0",
+      "parent": "https://sandbox.jiveon.com/api/core/v3/places/98126"
+    },
+    "name": "sampletile-gauge",
+    "accessToken": "5itcwug3f70dk1p1hjygs1g7b5uidofyvydiglfl.t",
+    "expiresIn": "172799",
+    "refreshToken": "gp1lgucioapkn8a7dfls6dn7l1y2kqzs9eegwah2.r",
+    "scope": "uri:/api/jivelinks/v1/tiles/4059",
+    "guid": "b22e3911-28ef-480c-ae3b-ca791ba86952_4059",
+    "jiveCommunity": "sandbox.jiveon.com",
+    "id": "85d91375-6b0d-44a7-aaa6-83864cb15c62"
+  }
+}
